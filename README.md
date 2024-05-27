@@ -14,4 +14,6 @@ server that, upon clicking will open the expected application in your default br
 
     Alos providing the my github repo link for the same:
    https://github.com/Abhijit-codder/koders
- 
+   Preview of my Dashboard:
+ ![dashboard](https://github.com/Abhijit-codder/Employee-dashboard/assets/111674298/39730dfb-bd7b-4563-b668-a12a6b0e9336)
+
